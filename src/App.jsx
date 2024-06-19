@@ -13,8 +13,6 @@ const App = () => {
         <Link to={'/tap-coin'} className='flex-1 p-20 rounded-lg glass flex items-center justify-center min-w-[40%] text-3xl shadow-lg group hover:text-red-500 hover:shadow-red-500 transition-all active:scale-90'>
           Tap Coin
         </Link>
-
-      
     </div>
   )
 }
